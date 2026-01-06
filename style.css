@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f9fafb;
+  color: #111;
+  text-align: center;
+}
+
+header {
+  padding: 40px 20px;
+  background: white;
+}
+
+header span {
+  color: #4f46e5;
+}
+
+.hero {
+  padding: 40px 20px;
+}
+
+.cards {
+  display: grid;
+  gap: 20px;
+  padding: 20px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.monetize {
+  padding: 40px 20px;
+  background: #eef2ff;
+}
+
+footer {
+  padding: 20px;
+  font-size: 14px;
+  color: #555;
+}
